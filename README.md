@@ -8,7 +8,7 @@ the web for web desiging
 </head>
 <body>
     <header>
-        <h1>Muhammad Ammar Ansari</h1>
+        <h1>Kiranraj Pillai</h1>
         <nav>
             <a href = "http://www.gmail.com">One</a>
             <a href = "http://www.facebook.com">Two</a>
