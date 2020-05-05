@@ -22,7 +22,7 @@ the web for web desiging
             <li>Pav Bhaji</li>
             <li>Gulab Jamun</li>
             <li>Chicken</li>
-            <li>Devil's Delight</li>
+            <li>Chocolate</li>
         </ul>
     </section>
     <section>
